@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.exe
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.deps.json
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.runtimeconfig.json
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.dll
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\bin\Debug\netcoreapp3.1\lab_8__Pysachuk.pdb
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.dll
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.pdb
+C:\Users\ASUS\source\repos\lab_8__Pysachuk\obj\Debug\netcoreapp3.1\lab_8__Pysachuk.genruntimeconfig.cache
